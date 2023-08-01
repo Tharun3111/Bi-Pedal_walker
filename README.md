@@ -5,6 +5,6 @@ The bi-pedal walker code is a program that simulates the movement of a walking r
 For more details you can refer Final report.pdf in the files. 
 
     
- 
+  
    
   
